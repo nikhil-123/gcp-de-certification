@@ -1,3 +1,29 @@
+<div align="center">
+
+# 🌩️ GCP Data Engineer Certification Journey  
+### **8 Weeks • DDIA Concepts • AI-in-Data-Engineering • Hands-on GCP Projects**
+
+<br>
+
+![GCP Badge](https://img.shields.io/badge/Google%20Cloud-Data%20Engineer-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![DDIA](https://img.shields.io/badge/Designing%20Data--Intensive%20Applications-DDIA-blueviolet?style=for-the-badge)
+![AI-in-DE](https://img.shields.io/badge/AI%20in%20Data%20Engineering-Enabled-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+
+<br>
+
+**A public 8-week journey to mastering:**
+- Google Cloud Data Engineering  
+- Designing Data-Intensive Applications (DDIA) fundamentals  
+- AI-powered Data Engineering workflows  
+- End-to-end GCP pipelines  
+- Streaming, batch, governance, ML & BigQuery optimization  
+
+</div>
+
+---
+
+
 # GCP Data Engineer Certification Journey
 
 Welcome to my 8-week journey to prepare for the **Google Cloud Professional Data Engineer Certification**, integrated with:
